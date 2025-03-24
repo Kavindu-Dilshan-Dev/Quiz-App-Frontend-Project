@@ -1,7 +1,7 @@
-#ER Diagram Of Project
+# ER Diagram Of Project
 ![ER](https://github.com/user-attachments/assets/bd06e343-a0e9-4915-8a8e-38a2fe62228a)
 
-#UseCase Diagram Of Project
+# UseCase Diagram Of Project
 ![UsecCase](https://github.com/user-attachments/assets/28ec8e38-71e8-4563-a798-34a6ca94a04c)
 
 
